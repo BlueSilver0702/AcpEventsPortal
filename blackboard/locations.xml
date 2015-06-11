@@ -1,0 +1,534 @@
+<?xml version="1.0"?>
+<markers>
+  <marker name="Annadale Office" addrln1="4771 Hylan Blvd." addrln2="Staten Island, NY 10312" phone="(718) 948-8200" lat="40.527805" lng="-74.165264">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="2" name="Cardiac Electrophysiology"/>
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="4" name="Cardovascular Disease"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="9" name="General Medicine"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="15" name="Physiatry"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="19" name="Surgery"/>
+  </marker>
+  <marker name="Astoria Medical Office" addrln1="31-75 23rd St, Astoria" addrln2="Queens, NY 11106" phone="(718) 956-2200" lat="40.764688" lng="-73.930177">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="17" name="Podiatry"/>
+  </marker>
+  <marker name="Babylon Medical Office" addrln1="300 Bay Shore Rd, North Babylon" addrln2="Suffolk, NY 11703" phone="(631) 586-2700" lat="40.742262" lng="-73.309307">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="20" name="Neurology"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="22" name="Otolaryngology"/>
+    <specialty id="23" name="Radiology"/>
+    <specialty id="24" name="Rheumatology"/>
+  </marker>
+  <marker name="Bay Ridge Center" addrln1="740 64th St." addrln2="Brooklyn, NY 11220" phone="(718) 439-2000" lat="40.633706" lng="-74.013179">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="25" name="Adult Nurse Practitioner"/>
+    <specialty id="26" name="Foot Surgery"/>
+    <specialty id="27" name="Pain Medicine"/>
+    <specialty id="28" name="Physical Medicine &amp; Rehabilitation"/>
+    <specialty id="29" name="Physician Assistant"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="31" name="Dietetics"/>
+    <specialty id="32" name="Orthopedic Surgery"/>
+    <specialty id="33" name="Primary Podiatric Medicine"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="35" name="Women's Health"/>
+  </marker>
+  <marker name="Bedford Williamsburg Center" addrln1="233 Nostrand Ave" addrln2="Brooklyn, NY 11205" phone="(718) 826-5900" lat="40.690860" lng="-73.951631">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="22" name="Otolaryngology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="28" name="Physical Medicine &amp; Rehabilitation"/>
+    <specialty id="29" name="Physician Assistant"/>
+    <specialty id="32" name="Orthopedic Surgery"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="36" name="Environmental &amp; Occupational Medicine"/>
+    <specialty id="37" name="Family Nurse Practitioner"/>
+    <specialty id="38" name="General Surgery"/>
+    <specialty id="39" name="Hospitalist"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="41" name="Surgical Critical Care"/>
+    <specialty id="42" name="Thoracic Surgery"/>
+    <specialty id="43" name="Facial Plastic Surgery"/>
+  </marker>
+  <marker name="Brooklyn Heights Center" addrln1="195 Montague St" addrln2="Brooklyn, NY 11201" phone="(718) 422-8000" lat="40.694040" lng="-73.991496">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="28" name="Physical Medicine &amp; Rehabilitation"/>
+    <specialty id="29" name="Physician Assistant"/>
+    <specialty id="32" name="Orthopedic Surgery"/>
+    <specialty id="33" name="Primary Podiatric Medicine"/>
+    <specialty id="37" name="Family Nurse Practitioner"/>
+  </marker>
+  <marker name="Cambria Heights Medical Office" addrln1="206-20 Linden Blvd." addrln2="Queens, NY 11411" phone="(718) 479-6600" lat="40.696286" lng="-73.745526">
+    <specialty id="10" name="Immunology"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="22" name="Otolaryngology"/>
+  </marker>
+  <marker name="Clove Lake Office" addrln1="1050 Clove Rd" addrln2="Staten Island, NY 10301" phone="(718) 816-6440" lat="40.619517" lng="-74.108385">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="2" name="Cardiac Electrophysiology"/>
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="4" name="Cardovascular Disease"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="15" name="Physiatry"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="44" name="Geriatric Medicine"/>
+    <specialty id="45" name="Neurosurgery"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="47" name="Pain Management"/>
+    <specialty id="48" name="Sleep Medicine"/>
+  </marker>
+  <marker name="Downtown Center (Atlantic)" addrln1="447 Atlantic Ave" addrln2="Brooklyn, NY 11217" phone="(718) 858-6300" lat="40.686390" lng="-73.982801">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="4" name="Cardovascular Disease"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="20" name="Neurology"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="22" name="Otolaryngology"/>
+    <specialty id="29" name="Physician Assistant"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="32" name="Orthopedic Surgery"/>
+    <specialty id="33" name="Primary Podiatric Medicine"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="36" name="Environmental &amp; Occupational Medicine"/>
+    <specialty id="37" name="Family Nurse Practitioner"/>
+    <specialty id="38" name="General Surgery"/>
+    <specialty id="39" name="Hospitalist"/>
+    <specialty id="42" name="Thoracic Surgery"/>
+    <specialty id="43" name="Facial Plastic Surgery"/>
+    <specialty id="49" name="Adult Echocardiography"/>
+    <specialty id="51" name="Gynecologic Oncology"/>
+    <specialty id="53" name="Nurse Practitioner"/>
+    <specialty id="55" name="Podiatric Orthopaedics"/>
+    <specialty id="56" name="Surgical Oncology"/>
+  </marker>
+  <marker name="Elite @ East 18th Street" addrln1="601 East 18th St." addrln2="Brooklyn, NY 11226" phone="(718) 434-5373" lat="40.636121" lng="-73.960248"/>
+  <marker name="Elmhurst Medical Office" addrln1="86-15 Queens Blvd" addrln2="Queens, NY 11373" phone="(718) 899-6600" lat="40.736592" lng="-73.876993">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="65" name="Family Health"/>
+  </marker>
+  <marker name="Elmhurst Pediatric &amp; Multi-Specialty Office" addrln1="88-06 55th Ave." addrln2="Queens, NY 11373" phone="(718) 271-9730" lat="40.735890" lng="-73.875443">
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+  </marker>
+  <marker name="Empire Center" addrln1="546 Eastern Pkwy" addrln2="Brooklyn, NY 11225" phone="(718) 604-4800" lat="40.669329" lng="-73.950115">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="29" name="Physician Assistant"/>
+    <specialty id="32" name="Orthopedic Surgery"/>
+    <specialty id="33" name="Primary Podiatric Medicine"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="37" name="Family Nurse Practitioner"/>
+    <specialty id="38" name="General Surgery"/>
+  </marker>
+  <marker name="Flatbush Center" addrln1="1000 Church Ave" addrln2="Brooklyn, NY 11218" phone="(718) 826-4000" lat="40.646565" lng="-73.970062">
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="29" name="Physician Assistant"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="31" name="Dietetics"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="58" name="Infectious Disease"/>
+  </marker>
+  <marker name="Flatiron District Office" addrln1="21 E 22nd St" addrln2="Manhattan, NY 10010" phone="(212) 460-7800" lat="40.740349" lng="-73.988332">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="60" name="Endocrinology Diabetes and Metabolism"/>
+    <specialty id="64" name="Family Practice"/>
+  </marker>
+  <marker name="Flushing North Medical Center" addrln1="140-15 Sanford Ave" addrln2="Queens, NY 11355" phone="(718) 670-6400" lat="40.757533" lng="-73.826665">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="20" name="Neurology"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="22" name="Otolaryngology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="57" name="Vascular Surgery"/>
+    <specialty id="65" name="Family Health"/>
+    <specialty id="67" name="Ancillary Services"/>
+    <specialty id="68" name="Orthopedics"/>
+  </marker>
+  <marker name="Forest Hills Medical Office" addrln1="96-10 Metropolitan Ave" addrln2="Queens, NY 11375" phone="(718) 459-0400" lat="40.711003" lng="-73.856297">
+    <specialty id="1" name="Allergy"/>
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="10" name="Immunology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="16" name="Physical Therapy"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="22" name="Otolaryngology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="57" name="Vascular Surgery"/>
+    <specialty id="59" name="Occupational Therapy"/>
+    <specialty id="65" name="Family Health"/>
+    <specialty id="68" name="Orthopedics"/>
+    <specialty id="69" name="Hand Surgery"/>
+  </marker>
+  <marker name="Harlem Office" addrln1="215 W 125th St" addrln2="Manhattan, NY 10027" phone="(212)491-2400" lat="40.809666" lng="-73.949058">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="12" name="Obstetrics/Gynecology"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="21" name="Nutrition"/>
+    <specialty id="58" name="Infectious Disease"/>
+  </marker>
+  <marker name="Hempstead Medical Office" addrln1="226 Clinton St" addrln2="Nassau, NY 11550" phone="(516) 483-2020" lat="40.712945" lng="-73.620279">
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="20" name="Neurology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="70" name="Pulmonary Medicine"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+  </marker>
+  <marker name="Hicksville Medical Office" addrln1="350 S Broadway" addrln2="Nassau, NY 11801" phone="(516) 938 0100" lat="40.760780" lng="-73.516268">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="15" name="Physiatry"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="20" name="Neurology"/>
+    <specialty id="22" name="Otolaryngology"/>
+    <specialty id="23" name="Radiology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="68" name="Orthopedics"/>
+    <specialty id="70" name="Pulmonary Medicine"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="75" name="Allergy/Immunology"/>
+  </marker>
+  <marker name="Jamaica Estates Medical Office" addrln1="180-05 Hillside Ave" addrln2="Queens, NY 11432" phone="(718) 526 6300" lat="40.713532" lng="-73.781914">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="58" name="Infectious Disease"/>
+    <specialty id="68" name="Orthopedics"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="75" name="Allergy/Immunology"/>
+  </marker>
+  <marker name="Kings Highway Medical Office" addrln1="3245 Nostrand Ave" addrln2="Brooklyn, NY 11229" phone="(718) 615 3777" lat="40.604654" lng="-73.942357">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="70" name="Pulmonary Medicine"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="74" name="Physiatry"/>
+    <specialty id="75" name="Allergy/Immunology"/>
+  </marker>
+  <marker name="Lake Success Medical Office" addrln1="1991 Marcus Ave" addrln2="Nassau, NY 11042" phone="(516) 354 1600" lat="40.755316" lng="-73.691579">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="23" name="Radiology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="58" name="Infectious Disease"/>
+    <specialty id="68" name="Orthopedics"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="74" name="Physiatry"/>
+    <specialty id="75" name="Allergy/Immunology"/>
+  </marker>
+  <marker name="Lincoln Square Medical Office" addrln1="154 W 71st St" addrln2="New York, NY 10023" phone="(212) 496 4600" lat="40.777425" lng="-73.981423">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="14" name="Pediatrics"/>
+  </marker>
+  <marker name="Lindenwood Medical Office" addrln1="2832 Linden Blvd" addrln2="Brooklyn, NY 11208" phone="(718) 240 2000" lat="40.669018" lng="-73.859347">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="20" name="Neurology"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="75" name="Allergy/Immunology"/>
+  </marker>
+  <marker name="Lower East Side Medical Office" addrln1="570 Grand St" addrln2="New York, NY 10002" phone="(212) 674 8210" lat="40.714010" lng="-73.978857">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="11" name="Internal Medicine"/>
+  </marker>
+  <marker name="Midtown Medical Office" addrln1="590 5th Ave" addrln2="New York,  10036" phone="(212) 582 7117" lat="40.757132" lng="-73.978575">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+  </marker>
+  <marker name="Richmond Hill Medical Office" addrln1="125-06 101st Ave" addrln2="Queens, NY 11419" phone="(718) 849 2900" lat="40.691277" lng="-73.820429">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="75" name="Allergy/Immunology"/>
+  </marker>
+  <marker name="Rochdale Village Medical Office" addrln1="169-59 137th Ave" addrln2="Queens, NY 11434" phone="(718) 525 5600" lat="40.672721" lng="-73.770326">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+  </marker>
+  <marker name="Rochdale Village Specialty Office" addrln1="169-27 137th Ave, Jamaica" addrln2="Queens, NY 11434" phone="(718) 525 5600" lat="40.672703" lng="-73.770447">
+    <specialty id="77" name="Primary Care"/>
+  </marker>
+  <marker name="Rockaway Medical Office" addrln1="29&#x2010;15 Far Rockaway Blvd" addrln2="Queens, NY 11691" phone="(718) 525 5600" lat="40.598553" lng="-73.763655">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="14" name="Pediatrics"/>
+  </marker>
+  <marker name="Ronkonkoma Medical Office" addrln1="640 Hawkins Ave" addrln2="Nassau, NY 11779" phone="(631) 737 0100" lat="40.816905" lng="-73.123159">
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="20" name="Neurology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="70" name="Pulmonary Medicine"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="74" name="Physiatry"/>
+    <specialty id="75" name="Allergy/Immunology"/>
+  </marker>
+  <marker name="Upper East Side Medical Office" addrln1="215 E 95th St" addrln2="New York, NY 10128" phone="(212) 996 8000" lat="40.784424" lng="-73.948576">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="40" name="Nephrology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+    <specialty id="76" name="Anesthesiology"/>
+  </marker>
+  <marker name="Valley Stream Medical Office" addrln1="260 W Sunrise Hwy" addrln2="Nassau, NY 11518" phone="(516) 825 3600" lat="40.661602" lng="-73.709697">
+    <specialty id="3" name="Cardiology"/>
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="6" name="Endocrinology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="19" name="Surgery"/>
+    <specialty id="23" name="Radiology"/>
+    <specialty id="24" name="Rheumatology"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="72" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+  </marker>
+  <marker name="Washington Heights Medical Office" addrln1="4337 Broadway" addrln2="New York, NY 10033" phone="(212) 568 6300" lat="40.852901" lng="-73.934730">
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="14" name="Pediatrics"/>
+    <specialty id="17" name="Podiatry"/>
+    <specialty id="73" name="Gynecology / Obstetrics"/>
+  </marker>
+  <marker name="Woodbury Medical Office" addrln1="225 Froehlich Farm Blvd" addrln2="Nassau, NY 11797" phone="(516) 364-5400" lat="40.800444" lng="-73.478473">
+    <specialty id="5" name="Dermatology"/>
+    <specialty id="7" name="Family Medicine"/>
+    <specialty id="8" name="Gastroenterology"/>
+    <specialty id="11" name="Internal Medicine"/>
+    <specialty id="13" name="Ophthalmology"/>
+    <specialty id="18" name="Pulmonology"/>
+    <specialty id="22" name="Otolaryngology"/>
+    <specialty id="30" name="Oncology"/>
+    <specialty id="34" name="Urology"/>
+    <specialty id="46" name="Hematology"/>
+    <specialty id="72" name="Podiatry"/>
+  </marker>
+</markers>

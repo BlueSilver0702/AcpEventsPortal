@@ -1,0 +1,49 @@
+@font-face{
+	font-family: 'Helvetica Neue Bold';
+		src: url('fonts/HelveticaLTStd-Bold.eot');
+		src: local('☺'), url('../fonts/HelveticaLTStd-Bold.woff') format('woff'), url('../fonts/HelveticaLTStd-Bold.ttf') format('truetype'), url('../fonts/HelveticaLTStd-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Helvetica Neue Light';
+		src: url('fonts/HelveticaLTStd-Light.eot');
+		src: local('☺'), url('../fonts/HelveticaLTStd-Light.woff') format('woff'), url('../fonts/HelveticaLTStd-Light.ttf') format('truetype'), url('../fonts/HelveticaLTStd-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Helvetica Neue Roman';
+		src: url('fonts/HelveticaLTStd-Roman.eot');
+		src: local('☺'), url('../fonts/HelveticaLTStd-Roman.woff') format('woff'), url('../fonts/HelveticaLTStd-Roman.ttf') format('truetype'), url('../fonts/HelveticaLTStd-Roman.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Helvetica Neue Middle';
+		src: url('fonts/HelveticaNeueLTStd-Md.eot');
+		src: local('☺'), url('../fonts/HelveticaNeueLTStd-Md.woff') format('woff'), url('../fonts/HelveticaNeueLTStd-Md.ttf') format('truetype'), url('../fonts/HelveticaNeueLTStd-Md.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Helvetica Neue Thin';
+		src: url('fonts/HelveticaNeueLTStd-Th.eot');
+		src: local('☺'), url('../fonts/HelveticaNeueLTStd-Th.woff') format('woff'), url('../fonts/HelveticaNeueLTStd-Th.ttf') format('truetype'), url('../fonts/HelveticaNeueLTStd-Th.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Helvetica Neue Ultra Light';
+		src: url('fonts/HelveticaNeueLTStd-UltLt.eot');
+		src: local('☺'), url('../fonts/HelveticaNeueLTStd-UltLt.woff') format('woff'), url('../fonts/HelveticaNeueLTStd-UltLt.ttf') format('truetype'), url('../fonts/HelveticaNeueLTStd-UltLt.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Gotham Book';
+		src: url('fonts/gotham_book.eot');
+		src: local('☺'), url('../fonts/gotham_book.woff') format('woff'), url('../fonts/gotham_book.ttf') format('truetype'), url('../fonts/gotham_book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

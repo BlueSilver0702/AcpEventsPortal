@@ -1,0 +1,47 @@
+.container{
+	margin: 0 auto;
+	max-width: 960px;
+	padding: 0 57px;
+}
+.container:after{
+	display: block;
+	clear: both;
+	content: "";
+}
+.accessibility{
+	left: -9999px;
+	position: absolute;
+	top: 0;
+}
+.placeholder{display: block;}
+.align-left{float: left !important;}
+.align-right{float: right !important;}
+.text-left{text-align: left !important;}
+.text-center{text-align: center !important;}
+.text-right{text-align: right !important;}
+/* headings styles start */
+h1{
+	font: 68px/54px 'Helvetica Neue Ultra Light', Arial, Helvetica, sans-serif;
+}
+h2{
+	font: 57px/44px 'Helvetica Neue Thin', Arial, Helvetica, sans-serif;
+	letter-spacing: 2px;
+}
+h3{
+	font: 40px/44px 'Helvetica Neue Thin', Arial, Helvetica, sans-serif;
+}
+h4{
+	font: 31px/35px 'Helvetica Neue Thin', Arial, Helvetica, sans-serif;
+}
+h5{
+	font: 17px/21px 'Helvetica Neue Bold', Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+}
+/* headings styles end */
+/* basic elements styles start */
+strong,
+b{
+	font-family: 'Helvetica Neue Middle', Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+/* basic elements styles end */

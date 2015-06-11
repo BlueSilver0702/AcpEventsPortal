@@ -1,0 +1,232 @@
+/*
+Theme Name: ACP
+Theme URI: http://bluesilverdesign.com/
+Author: Bluesilver Design
+Author URI: http://bluesilverdesign.com/
+Description: This is a custom theme for ACP
+Version: 1.0
+*/
+
+#form-msg, #error-msg {
+	display: none;
+	padding-top: 13px;
+}
+#form-msg {
+	color: #0099FF;
+}
+#error-msg {
+	color: #FF0033;
+	font-weight: 600;
+}
+.details-page #form-msg {
+	color: #FFFFFF;
+	display: block;
+}
+.details-page #error-msg {
+	display: block;
+}
+
+.tpl {
+	display: none;
+}
+
+form.details-form ul.list li:nth-child(odd) {
+	background: #d87a18;
+	background: rgba(187, 94, 4, 0.4);
+}
+
+.faq .number{
+	width: 100px;
+	margin-left: -15px;
+	text-align: center;
+}
+.faq .text{
+	width: 496px;
+}
+.faq .active .number{
+	margin-top: -21px;
+}
+.faq .active .opener{
+	padding-top: 25px;
+}
+
+.check-in .main-form .row,
+#email-form .main-form .row
+ {
+	margin-bottom: 11px;
+}
+
+.link-list .screenings a:after{
+	background-position: 0px 0px;
+	background: url(images/content/ico-health-screenings.png) no-repeat;
+	width: 27px;
+	height: 18px;
+	left: 27px;
+	margin-top: -10px;
+}
+.link-list .details a:after{
+	background-position: 0px 0px;
+	background: url(images/content/ico-event-details.png) no-repeat;
+	height: 19px;
+	width: 22px;
+	left: 29px;
+	margin-top: -9px;
+}
+.link-list .registration a:after{
+	background-position: 0px 0px;
+	background: url(images/content/ico-event-registration.png) no-repeat;
+	height: 19px;
+	left: 31px;
+	margin-top: -9px;
+	width: 20px;
+}
+.link-list .check a:after{
+	background-position: 0px 0px;
+	background: url(images/content/ico-check-out.png) no-repeat;
+	width: 21px
+	height: 17px
+	left: 26px;
+	margin-top: -8px;
+}
+.link-list .kiosk a:after{
+	background-position: 0px 0px;
+	background: url(images/content/ico-kiosk.png) no-repeat;
+	width: 17px;
+	height: 22px;
+	left: 31px;
+	margin-top: -10px;
+}
+
+.contacts h1 {
+	padding-top: 18px;
+}
+
+#office-list-left li,
+#office-list-right li {
+	cursor: pointer;
+}
+
+.specialty-bubble {
+	max-width: 400px;
+}
+
+.details-form .event-heading h4{
+	max-width: 550px;
+}
+
+form.agreement-form h2 {
+	padding-top: 18px;
+}
+
+.select-section .link-list {
+	padding-top: 61px;
+}
+
+#email-form {
+	background-color: #FFFFFF;
+	padding: 20px;
+}
+
+#nav {
+	font: 17px/23px 'Helvetica Neue Roman', Arial, Helvetica, sans-serif;
+}
+
+#acp-tips,
+#send-scrn-info label {
+	font-size: 20px;
+	letter-spacing: 1px;
+	line-height: 20px;
+	color: #444343;
+}
+
+#send-scrn-info p {
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+
+#acp-tips p {
+	margin: 10px 0px 5px 0px;
+}
+
+#acp-tips label {
+	font-size: 15px;
+	margin-right: 15px;
+}
+
+.faq-page .header-box #nav {
+	padding-top: 80px;
+}
+
+.faq-page .header-box #nav li {
+	float: left;
+	padding: 0 0 0 28px;
+	position: relative;
+}
+.faq-page .header-box #nav li:first-child:after {display: none;}
+.faq-page .header-box #nav li:after {
+	left: 14px;
+}
+
+.faq-page .header-box p {
+	position: absolute;
+	top: 40px;
+	right: 0px;
+	font: 18px/22px "Helvetica Neue Roman",Arial,Helvetica,sans-serif;
+	/*color: #e87722;*/
+	/*font-weight: 600;*/
+}
+
+.faq-page .header-box p span {
+	color: #e87722 !important;
+}
+
+.contacts h1 {
+	padding-top: 0px;
+}
+
+.details-form .text-info dt{
+	width: 105px;
+}
+
+form.agreement-form button.btn {
+	min-width: 125px;
+	height: 41px;
+	padding: 10px 14px;
+	font: 22px/24px 'Helvetica Neue Light', Helvetica, Arial, sans-serif;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: #f6a05a;
+	background-image: -moz-linear-gradient(top,  #f6a05a 0%, #f59242 34%, #f4852b 50%, #da7726 66%, #bc6621 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f6a05a), color-stop(34%,#f59243), color-stop(50%,#f4852b), color-stop(66%,#da7726), color-stop(100%,#bc6621));
+	background-image: -webkit-linear-gradient(top,  #f6a05a 0%,#f59242 34%,#f4852b 50%,#da7726 66%,#bc6621 100%);
+	background-image: -o-linear-gradient(top,  #f6a05a 0%,#f59242 34%,#f4852b 50%,#da7726 66%,#bc6621 100%);
+	background-image: -ms-linear-gradient(top,  #f6a05a 0%,#f59242 34%,#f4852b 50%,#da7726 66%,#bc6621 100%);
+	background-image: linear-gradient(to bottom,  #f6a05a 0%,#f59242 34%,#f4852b 50%,#da7726 66%,#bc6621 100%);
+}
+
+form.agreement-form .btn:after,
+form.agreement-form .btn:before,
+.btn.nograd:after,
+.btn.nograd:before{
+	background-image: none;
+}
+
+form.agreement-form fieldset {
+	padding-bottom: 40px;
+}
+
+.details-page .logo{
+	background-position: -330px -160px;
+	height: 68px;
+	width: 212px;
+	margin: 18px 0px 0px 41px;
+}
+
+.btn.nograd {
+	background: #E87722;
+	background-image: none;
+	padding-top: 11px;
+	text-shadow: none;
+}
